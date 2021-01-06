@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternshipProject</string>
+    <string name="about">About</string>
+    <string name="Sort">Sort</string>
+    <string name="Popular">Popular</string>
+    <string name="topRated">Top Rated</string>
+    <string name="favorites">Favorites</string>
+</resources>
